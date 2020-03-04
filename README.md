@@ -11,4 +11,4 @@ A series of data analysis project using python and jupyter notebook.
 - the popularity of Ask HN and Show HN session comparing with other hacker news sections, and 
 - the pattern of people commenting on hacker news, whether there is a certain time that's more popular than other.
 
-_See more copyright info in the file._
+### _See more copyright info in the file._

@@ -11,7 +11,7 @@ A series of data analysis project using python and jupyter notebook.
 - the popularity of Ask HN and Show HN session comparing with other hacker news sections, and 
 - the pattern of people commenting on hacker news, whether there is a certain time that's more popular than other.
 
-#### 3.  `customer_retention_analysis.ipynb` is an data visualization attempt to generate the popular cohort analysis chart.
+#### 3.  `retention_cohort_analysis.ipynb` is an data visualization attempt to generate the popular cohort analysis chart heatmap.
 
 ### _See more copyright info in the file._
 
